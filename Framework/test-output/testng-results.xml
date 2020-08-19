@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="101062" started-at="2020-08-19T12:56:25 IST" finished-at="2020-08-19T12:58:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="101062" started-at="2020-08-19T12:56:25 IST" finished-at="2020-08-19T12:58:06 IST">
+      <class name="caseStudy.Framework.TestCase">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:caseStudy.Framework.TestCase@30ae58f5]" name="beforeTest" is-config="true" duration-ms="19687" started-at="2020-08-19T12:56:25 IST" finished-at="2020-08-19T12:56:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC01_openApp()[pri:0, instance:caseStudy.Framework.TestCase@30ae58f5]" name="TC01_openApp" duration-ms="11103" started-at="2020-08-19T12:56:44 IST" finished-at="2020-08-19T12:56:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_openApp -->
+        <test-method status="PASS" signature="TC02_signIn()[pri:1, instance:caseStudy.Framework.TestCase@30ae58f5]" name="TC02_signIn" duration-ms="8455" started-at="2020-08-19T12:56:56 IST" finished-at="2020-08-19T12:57:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_signIn -->
+        <test-method status="PASS" signature="TC03_selectLanguage()[pri:2, instance:caseStudy.Framework.TestCase@30ae58f5]" name="TC03_selectLanguage" duration-ms="17433" started-at="2020-08-19T12:57:04 IST" finished-at="2020-08-19T12:57:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_selectLanguage -->
+        <test-method status="PASS" signature="TC04_openCourses()[pri:3, instance:caseStudy.Framework.TestCase@30ae58f5]" name="TC04_openCourses" duration-ms="16492" started-at="2020-08-19T12:57:21 IST" finished-at="2020-08-19T12:57:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_openCourses -->
+        <test-method status="PASS" signature="TC05_chromeActions()[pri:4, instance:caseStudy.Framework.TestCase@30ae58f5]" name="TC05_chromeActions" duration-ms="16976" started-at="2020-08-19T12:57:38 IST" finished-at="2020-08-19T12:57:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_chromeActions -->
+        <test-method status="PASS" signature="TC06_switchToNative()[pri:5, instance:caseStudy.Framework.TestCase@30ae58f5]" name="TC06_switchToNative" duration-ms="5106" started-at="2020-08-19T12:57:55 IST" finished-at="2020-08-19T12:58:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_switchToNative -->
+        <test-method status="PASS" signature="TC07_signOut()[pri:6, instance:caseStudy.Framework.TestCase@30ae58f5]" name="TC07_signOut" duration-ms="5659" started-at="2020-08-19T12:58:00 IST" finished-at="2020-08-19T12:58:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07_signOut -->
+      </class> <!-- caseStudy.Framework.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
